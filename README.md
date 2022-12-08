@@ -1,5 +1,6 @@
 # downntube
-HI,IT IS SIMPLE PROJECT  TO DOWNLOAD YOUTUBE  
+HI,IT IS SIMPLE PROJECT  TO DOWNLOAD YOUTUBE VIDEOS
+I MADE THIS FOR DOWNLOAD SONGS FOR MY PLAYLIST 
 
 downtube is simple project you can download the youtube videos<br>
 you can download AUDIOS AND VIDEOS ON VARIOUS QUALITY seprately<br>
